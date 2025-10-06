@@ -109,7 +109,7 @@ Dashboard web pour centraliser et visualiser les données en temps réel avec g�
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-eddine-binoua)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badr.eddine.binoua@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votre-portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]((http://192.168.105.190:8080/))
   
 </div>
 

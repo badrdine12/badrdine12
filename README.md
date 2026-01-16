@@ -47,19 +47,6 @@ Je transforme des processus industriels complexes en solutions digitales éléga
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badrdine12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badrdine12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=badrdine12&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1)
-
-</div>
-
----
 
 ## 🏆 Projets Phares
 
